@@ -25,7 +25,6 @@ pub fn home() -> Html {
                     rel="noopener noreferrer"
                 >
                 </a>
-                <h1 class="hover:rotate-45">{ "Testing Tailwind" }</h1>
                 <p>
                     { "Edit " } <code>{ "src/routes/home.rs" }</code> { " and save to reload." }
                 </p>
